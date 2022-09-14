@@ -1,0 +1,1160 @@
+Author’s Accepted Manuscript
+Where the depressed mind wanders: Self-generated
+thought patterns as assessed through experience
+sampling as a state marker of depression
+Ferdinand Hoffmann, Christian Banzhaf, Philipp
+Kanske, Felix Bermpohl, Tania Singer
+PII: S0165-0327(15)31391-4
+DOI: http://dx.doi.org/10.1016/j.jad.2016.03.005
+Reference: JAD8092
+To appear in: Journal of Af ective Disorders
+Received date: 9 December 2015
+Revised date: 28 February 2016
+Accepted date: 5 March 2016
+Cite this article as: Ferdinand Hoffmann, Christian Banzhaf, Philipp Kanske,
+Felix Bermpohl and Tania Singer, Where the depressed mind wanders: Selfgenerated thought patterns as assessed through experience sampling as a state
+marker of depression, Journal of Af ective Disorders,
+http://dx.doi.org/10.1016/j.jad.2016.03.005
+This is a PDF file of an unedited manuscript that has been accepted for
+publication. As a service to our customers we are providing this early version of
+the manuscript. The manuscript will undergo copyediting, typesetting, and
+review of the resulting galley proof before it is published in its final citable form.
+Please note that during the production process errors may be discovered which
+could affect the content, and all legal disclaimers that apply to the journal pertain.
+www.elsevier.com/locate/jad
+Where the depressed mind wanders: Self-generated thought 
+patterns as assessed through experience sampling as a state marker 
+of depression
+Ferdinand Hoffmann1*
+, Christian Banzhaf 2
+, Philipp Kanske1
+, Felix Bermpohl2
+, Tania Singer1
+1Department of Social Neuroscience, Max Planck Institute for Human Cognitive and Brain Sciences, 
+Leipzig
+2Department of Psychiatry and Psychotherapy, Charité Campus Mitte, Universitätsmedizin Berlin
+*Correspondence to: Ferdinand Hoffmann, Department of Social Neuroscience Max-Planck 
+Institute for Human Cognitive and Brain Sciences Stephanstrasse 1a, 04105 Leipzig, Germany. 
+E-mail: hoffmann@cbs.mpg.de
+Abstract
+Background
+Self-generated thoughts (SGTs), such as during mind-wandering, occupy much of our waking 
+life. Individuals with Major Depressive Disorder (MDD) are less in the “here and now” and 
+prone to rumination. Few studies have looked at SGTs in depression using experience sampling 
+methods and no study has so far investigated the specific contents of depressive SGTs and how 
+they vary from one time point to another.
+Methods
+MDD patients (n =25) and matched healthy controls (n = 26) performed an established mind 
+wandering task, involving non-demanding number discriminations. Intermittent probe questions 
+ask for participants’ current SGTs, that is, how off-task the thoughts are, how positive or 
+negative, self- or other-related, and past- or future-oriented.
+Results
+Multi-level modeling revealed that MDD patients engaged in more mind wandering than healthy 
+controls. Their SGTs were predominantly negative and less positive, more self-related and pastoriented. Strongest predictor of depressive SGT was the decreased positive valence of thoughts. 
+MDD patients’ future and past-oriented thoughts were particularly more negative compared to 
+healthy controls. Within MDD patients, the less positively valenced thoughts they had and the 
+less variable these thoughts were, the more depressive symptoms they showed. 
+Limitation
+No other measures of rumination and worry were used.
+Conclusion
+MDD patients show a very specific SGT pattern, possibly reflecting ruminative and anxious 
+thoughts. This SGT pattern in depression might represent a useful state marker and even
+constitute an etiological factor of this debilitating disease, considering the importance of current 
+SGT on and individual’s cognitive processes and affective states.
+1. Introduction
+Self-generated thoughts (SGTs) arise independently of external stimulation through the 
+environment, and comprise experiences such as mind-wandering, day-dreaming, rumination and 
+planning (Smallwood, 2013). It is known that SGT forms a crucial part of human mental activity, 
+occupying up to 50% of our waking mind (Kane et al., 2007; Killingsworth and Gilbert, 2010). 
+Mind wandering occurs particularly when attentional and cognitive demands in relation to the
+external environment are low (e.g. Smallwood et al., 2004). Some studies have linked SGT such 
+as mind-wandering to negative mood and unhappiness (Killingsworth and Gilbert, 2010; 
+Stawarczyk et al., 2013), recent findings, however, suggest that it is crucial to consider ‘where 
+the mind wanders’ and to look more specifically at the content of SGTs. For example, in healthy 
+individuals, past-focused thoughts seem to be related to a reduction in positive mood, more 
+depressive symptoms and increased cortisol levels after stress, while future-focused thoughts 
+lead to an increase in positive mood and an attenuated stress response (Baird et al., 2011; Engert 
+et al., 2014; Ruby et al., 2013a; Smallwood and O'Connor, 2011; Smallwood et al., 2007). Thus,
+SGT seems to represent a heterogeneous mental phenomenon with variable effects on human 
+cognition, affect and behavior (Andrews‐Hanna et al., 2014).
+Patients with depression are known to show considerable difficulties with staying in the 
+“here and now”. Investigations have demonstrated that MDD patients tend to engage in 
+maladaptive SGTs in the form of excessive rumination and worry (Nolen-Hoeksema, 1991, 2000; 
+Watkins, 2008). Depressive rumination has been characterized as a mode of responding to 
+distress which involves repetitively and passively focusing on symptoms of distress and on the 
+possible causes and consequences of these symptoms (Nolen-Hoeksema, 2000). Worry, in 
+contrast, has been described as a chain of negative uncontrollable thoughts and images, 
+constituting an attempt to engage in problem-solving on issues with an uncertain outcome
+(Borkovec et al., 1983). While rumination and worry tend to correlate and some similar features 
+such as their repetitive nature, they have also been found to be statistically distinguishable
+(Nolen-Hoeksema et al., 2008). It has thus been proposed that rumination is more past and 
+present oriented, focused on issues of self-worth, meaning and loss, whereas worry seems to be 
+future-oriented, focused on anticipating threats (Nolen-Hoeksema et al., 2008; Watkins, 2008). 
+While both rumination and worry have been associated with depressive symptoms, rumination 
+seems to be more strongly related to depression (Hendriks et al., 2014; Hong, 2007). In MDD, 
+rumination seems to represent a vulnerability marker for developing the disorder, and also shows
+a relation to the duration of MDD episodes and relapse probability (Nolen-Hoeksema et al., 
+2008). According to the cognitive model of depression, adverse early life events lead to 
+internalization of negative self-referential schemas that subsequently bias information processing, 
+in how stimuli are encoded, organized and retrieved (Disner et al., 2011). Therefore, these 
+negative self-referential schemas might bias thoughts towards rumination of negative past 
+experiences in depressive patients.
+Previous research on rumination and worry in depression has been largely based on 
+questionnaire and induction methods, which both have considerable limitations and lack 
+ecological validity. Questionnaire methods rely heavily on retrospection which is often impaired 
+in psychiatric populations. Most induction methods prompt participants towards rumination 
+about certain subjects (thinking e.g. about the long-term goals you have set), which then is 
+compared to distraction inductions, asking the participants to focus on non-self-relevant images 
+(Nolen-Hoeksema and Morrow, 1993). However without no-intervention control conditions, the 
+effects between the two different conditions are difficult to disentangle. More critically these 
+induction methods do not capture momentary online thoughts. In contrast growing research on 
+SGTs in healthy individuals suggests that if one wants to make more objective claims about the 
+wandering mind in health or in depression one ought to investigate SGTs using online experience 
+sampling measures. Such online-measures of SGTs would allow picking up disease specific SGT 
+patterns in the moment when they actually occur, and are particularly useful in depression 
+research as ecological momentary assessment avoids the recall bias toward negative memories 
+and also allows for better generalization to real life. To our knowledge only one study looked at 
+online SGTs in clinically depressed participants (Ottaviani et al., 2014). Using an experience 
+sampling method this study categorized SGTs in depression as either normal mind wandering, on 
+task thoughts or perseverative cognition, linking the latter to autonomic inflexibility in lower 
+heart-rate variability. No study however has so far tried to objectively decompose the specific 
+SGT contents in clinical depression, regarding the previously established temporal (past or future 
+oriented), social (self or other related), and emotional (negative or positive) dimensions of SGT 
+(Engert et al., 2014; Ruby et al., 2013a; Ruby et al., 2013b). From a clinical perspective 
+identifying the specific SGT pattern in depression seems of great interest, as such SGT pattern 
+could function as a state marker of depression, which could potentially then be utilized as 
+measure of disease progression and therapeutic change, as well as helping better differentiation 
+of mental disorders. In addition it is unknown how these SGT contents in MDD patients relative 
+to healthy controls vary over time, which could function as a good indicator of the repetitiveness 
+of thoughts, inherent in rumination and also worry. This study thus aimed to comprehensively 
+investigate the space of SGTs in depression in terms of amount, content and variability.
+Based of clinical observation and description disordered thoughts in depression have 
+been commonly conceptualized as rumination and worry. Such disordered thoughts in depression 
+can however, considering the recent findings in mind wandering research possibly more 
+accurately be described by pathological SGTs in depression. In this study we thus aimed to 
+specifically investigate the online SGT contents and their variability in a sample of clinically 
+depressed patients. We used an established non-demanding choice reaction time task (CRT) that 
+allows spontaneous SGTs in participants. During this task participants are asked at random time 
+points, first, how much they were on task, and, secondly, about the specific content of their 
+thoughts (Engert et al., 2014; Ruby et al., 2013a; Ruby et al., 2013b), such as questions asking if
+their thoughts were focused on certain temporal epochs (future or past), involved different 
+referents (self or other) and varied in valence (negative or positive). This task is particularly 
+useful as an objective online measure of the amount and specific content of SGTs, but also of 
+their variability over time, as participants are asked about the SGTs repeatedly throughout the 
+task. One index of thought variability is the fluctuation of thought ratings from one thought 
+probe to the next, computed as the squared successive difference in ratings, which has been an 
+established method in experience sampling studies (Ebner-Priemer et al., 2007; Jahng et al., 2008; 
+Skirrow et al., 2014; Trull et al., 2008). Another index of variability represents the extremity of 
+the thought ratings, calculated as the squared difference of each rating from the mean for that 
+variable.
+We first hypothesized that MDD patients relative to healthy controls would generally 
+show more mind wandering, that is engage in more SGTs, being less in the ‘here and now’, and 
+that these stimulus independent thoughts would be more negative, self, and past related in 
+accordance with the cognitive model of depression and findings on increased rumination in 
+depression. Secondly, we also hypothesized that MDD patients would think more about negative 
+future events, possibly pointing to their tendency to engage in stronger worrying compared to 
+healthy controls. Thirdly we expected that MDD patients would also show less variability and 
+more rigid thought patterns compared to healthy controls, capturing the repetitive nature of their 
+thoughts. Lastly we expected a relation between symptom severity and specific patterns in SGTs 
+and their variability in depression. 
+2. Methods
+2.1. Participants
+25 patients with depression were recruited through the inpatient clinic of the CharitéUniversitätsmedizin Berlin, or were referred to us by specialized clinicians (see Table 1). 26
+healthy control (HC) participants matched to the patients in terms of years of education, age, and 
+gender with no history of psychiatric or neurological disorders were recruited by public notices 
+and from project databases of the Charité-Universitätsmedizin Berlin. Participants were assessed 
+for mental disorders using the Structured Clinical Interview for the DSM-IV (American 
+Psychiatric Association, 2000) and a diagnosis of acute state of depression was confirmed with 
+no other primary diagnoses. All participants completed the Beck Depression Inventory (BDI, 
+Hautzinger et al., 1995), and were also assessed with the Hamilton Depression Rating Sale 
+(HAMD-17, Hamilton, 1960). Additionally, participants completed a measure of crystallized 
+intelligence (Wortschatztest, WST, a vocabulary test part of the HAWIE-R, the German 
+adaptation of the Wechsler Adult Intelligence Scale, Schmidt and Metzler, 1992). All MDD 
+patients except one were on medication (see Table 2). No patient was medicated with 
+benzodiazepines for at least 48 hours. Exclusion criteria included any comorbid axis I disorder, 
+current neurological disorder, substance abuse within 6 months before study participation, 
+diagnosis of antisocial personality disorder or borderline personality disorder. None of the 
+patients had a history of electroconvulsive therapy (ECT). The study was approved by the local 
+research ethics committee (Charité-Universitätsmedizin Berlin) and written informed consent 
+was obtained from all participants.
+2.2. CRT Task
+We used an established mind wandering paradigm that probes off-task thoughts during a 
+choice reaction time task (Baird et al., 2012; Ruby et al., 2013a; Smallwood et al., 2013) and 
+assessed the content of the participants’ thoughts on six different dimensions 1) past, 2) future, 3) 
+self, 4) other, 5) negative valence and 6) positive valence (e.g. Engert et al., 2014; Ruby et al., 
+2013a). A series of black digits between 1 and 8 was presented. One sixth of the digits was 
+presented in red color signaling participants that they should indicate via button press if this 
+number was odd or even. Black digits were presented for 1000 ms and red digits for 2000 ms. 
+Responses had to be made while the colored digits were still present on the screen. Stimuli were 
+separated by a fixation cross of variable duration (2200–4400 ms). 
+The number of thought probes and their presentation were randomly determined (Ruby et al., 
+2013a), to avoid any expectancy biases, and thus sampling SGTs in the most unconstrained way 
+(number of probes between four and nine). Participants were asked to rate their current thoughts 
+using a nine-point Likert scale on several dimensions including how much their thoughts were 1) 
+past-oriented, 2) future-oriented, 3) self-related, 4) other-related, 5) negatively valenced and 6) 
+positively valenced and 7) how much off task their thoughts were at that point in time. 
+Additionally, they rated their current mood (i.e. how positive and how negative they felt).
+Importantly healthy controls and MDD patients did not differ in terms of accuracy (healthy 
+controls: 87.2%, MDD patients: 86.4%) and reaction time (healthy controls: 882.29 ms, MDD 
+patients: 923.62 ms) on the CRT task (more detail reported in the results section). The entire task 
+lasted approximately 14 min. Stimuli were presented using E-prime 2.0 (Psychology Software 
+Tools, Inc., Sharpsburg, PA, USA).
+2.3. Data analysis
+For the main analyses, we used multi-level models because they take correlated observations 
+within individuals into account and perform well with missing data or unequal numbers of data 
+points within individuals (Jahng et al., 2008). Linear mixed models were calculated in SPSS 
+version 22 with the number of the particular sampling point within the session (e.g., sample 5) as 
+covariate and with a random intercept. Sampling point was used as a covariate within the models 
+to account for different numbers of sampling points between the participants. In addition to the 
+rating level (e.g. to what extent was a certain thought negative or self-related), we investigated 
+two indices of variability, i.e., fluctuations and extremity in ratings. To obtain a measure of how 
+much individuals fluctuate in their single SGT ratings from one thought probe to the next, we 
+calculated squared successive differences, which has been established in experience sampling 
+studies (Ebner-Priemer et al., 2007; Jahng et al., 2008; Skirrow et al., 2014; Trull et al., 2008).
+Fluctuation scores were calculated for each SGT dimension separately. To obtain a measure of 
+how extreme the individual ratings were, we calculated the squared difference of each rating 
+from the total sample mean (including healthy controls and MDD patients) for that variable. In 
+contrast to the fluctuations, this does not take into account how big successive changes are, but 
+rather indicates how much a certain rating differs from the “norm”. As a measure of effect size 
+for the central main effects and interaction effects Omega-squared (ω2
+) was calculated by taking 
+the difference from 1 and the variance of the residuals of the full model divided by the variance 
+of the residuals of the model without the respective fixed factor of interest (Xu, 2003). A value 
+of ω2
+= .010 represents a small effect size, a value of ω2
+= .059 indicates a medium effect size and 
+a value of ω2
+=.138 represents a large effect size (Kirk, 1996). In a first step, differences between 
+MDD patients and HCs in ratings levels, fluctuations in ratings, and extremity in ratings (see 
+below for details) were subjected to multi-level models as described above. In a second step we 
+tested for group differences and in particular interrelations of the different content dimensions of 
+SGT, on which healthy controls and MDD patients were found to differ. This allowed us to 
+investigate whether certain SGTs were more strongly correlated with one another in MDD 
+patients compared to healthy controls. Finally in a third step, we investigated how symptom 
+severity in healthy controls and MDD patients related to the different SGT measures (rating, 
+fluctuation, extremity). Symptom severity in healthy controls and MDD patients might relate to 
+very specific SGTs. In the case of healthy controls such SGTs might represent a vulnerability 
+factor towards the development of depression.
+3. Results
+3.1. Performance
+Independent samples t-tests showed no significant differences between healthy controls and 
+MDD patients in accuracy (t(49) = -0.13, p = .894; healthy controls: 87.2 % ± 17.3, MDD 
+patients: 86.4 % ± 24.7) or reaction times (t(49) = 1.26, p = .212; healthy controls: 882.29 ms 
+±106.24, MDD patients: 923.62 ms ± 126.74) in the CRT.
+3.2. Mood probes
+Multilevel models revealed that MDD patients showed elevated levels of negative and 
+decreased levels of positive mood (see Table 3 and Fig. 1 Supplemental Material). The 
+fluctuations and extremity of the mood ratings were not significantly different between groups.
+3.3. Thought probes
+3.3.1. Rating levels
+Multilevel models revealed that MDD patients show significantly increased off-task 
+thoughts, relative to the healthy controls (see Fig. 1 and Table 3). Regarding the particular SGT 
+contents, MDD patients reported more negative and less positive, as well as more past- and selfrelated thoughts compared to healthy controls. MDD patients also engaged in marginally more 
+future-oriented SGTs. Number of sampling points (“Sample”), was included as a covariate in all 
+analyses. Non-significant results of the number of sampling points particularly for fluctuation 
+and extremity suggest that variability measures were not as strongly influenced by the number of 
+sampling points, thus did not change as much over the course of the experiment, as the ratings 
+themselves. Including current mood as a covariate showed significant relations between mood 
+and thought valence, but did not change the group differences in positive (b = 7.800, S.E. = 
+2.940, p = .010) and negative thoughts (b = -15.4435, S.E. = 4.124, p = .001). There were no 
+group differences in the amount of other-related thoughts. While healthy controls had more 
+positive thoughts than negative thoughts (t(25) = -4.022, p < .001), MDD patients had
+marginally more negative thoughts than positive thoughts (t(24) = 1.981, p = .059).
+3.3.2. Variability
+There were no significant differences between the groups in extremity of SGTs (see 
+Table 3). There was however a marginally significant group difference in fluctuations of pastrelated thoughts, with MDD patients showing less fluctuating past-related SGTs (see Table 3).
+3.3.3. SGT contents as predictors of MDD
+Looking at what SGT content was the most accurate in distinguishing between MDD 
+patients and healthy controls a stepwise logistic regression was performed on the two groups, 
+with the six SGT contents as predictors (past, future, other, self, negative, positive). The results 
+showed that the amount of positive thoughts was most discriminative between the two groups (B
+= -0.45, Wald = 59. 05, p < .001, Nagelkerke R square = .323).
+3.3.4. Interrelations between SGT contents in MDD patients and healthy controls
+Looking specifically at interrelations of the different content dimensions of SGT, multilevel models were used on the SGT contents in which MDD patients and healthy controls were 
+found to differ (self, past, negative, positive, see 3.3.1). These analyses were run to investigate 
+whether certain SGTs tended to interrelate more strongly in MDD patients relative to healthy 
+controls. Each SGT content was used as a covariate to investigate interrelation with another SGT 
+(as dependent variable), while group was used as an independent factor (healthy controls vs 
+MDD patients). This resulted in twelve separate models, with only the significant models 
+reported in Table 4. In particular, it was found that MDD patients’ temporal thoughts of past and 
+future were significantly more negatively valenced in comparison to the healthy controls (see Fig.
+2 and Table 4), suggesting a stronger preoccupation with negative past and negative future 
+events. In contrast positive thoughts in healthy controls were more past-related compared to 
+MDD patients. In addition past-oriented thoughts were more self-related in MDD patients 
+compared to healthy controls.
+3.5.Relation of SGT variables to symptom severity
+3.5.1. MDD patients
+To test for a relation of the observed effects with symptom severity in the MDD group, 
+we ran two separate liner-mixed models with BDI and Hamilton scores as covariates. Both 
+symptom severity measures, BDI and Hamilton scores showed a significant positive correlation 
+(healthy controls: r = 0.68, p < 0.01; MDD patients: r = 0.43, p = 0.03). BDI was a marginal 
+predictor for the amount of mind wandering in general (b = 0.942, S.E. = 0.500, p = 0.071). 
+Looking specifically at SGT contents, BDI was a predictor of increased levels of past-related 
+thoughts (b = 1.109, S.E. = 0.497, p = 0.045), and a marginally significant predictor of decreased 
+positive valence (b = -0.863, S.E. = 0.420, p = 0.050). Hamilton scores were a significant 
+predictor of future-related thoughts (b = 4.271, S.E. = 0.623, p < 0.001) and negative valence (b 
+= 2.369, S.E. = 1.293, p = 0.080). These findings suggest that more severe symptoms are 
+associated with an increase in specific SGT contents. .
+Relating symptom severity to SGT fluctuations, BDI scores were found to be a predictor 
+of the fluctuations in self-related thoughts (b = -39,527, S.E. = 14.031, p = 0.006) and 
+fluctuations in negative (b = -18,634, S.E. = 8.369, p = 0.027) and positive valence (b = -20,029, 
+S.E. = 7.460, p = 0.008). Hamilton scores were found to be a predictor of the fluctuations in selfrelated thoughts (b = -74,202, S.E. = 34.163, p = 0.032) and fluctuations positive valence (b = -
+54,834, S.E. = 18.460, p = 0.004). These findings suggest that, the more severe the depressive 
+symptoms in MDD patients were the less variable the reported experience of specific SGTs is in 
+the course of the experiment was.
+Relating symptom severity to SGT extremity, BDI was found to be a predictor of 
+extremity in past-related thoughts (b = 34,396, S.E. = 713.425, p = 0.015). Hamilton was a 
+predictor of extremity in future-related thoughts (b = 91,014, S.E. = 27.059, p = 0.001).
+3.5.2. Healthy controls
+Another interesting question was how depressive symptomatology in healthy controls
+related to SGTs, possibly indicating that certain SGTs can indicate a vulnerability to developing
+depression. BDI was found to be a marginal predictor of the amount of past-related thoughts (b = 
+1.492, S.E. = 0.775, p = 0.067). Hamilton scores were also found to be a significant predictor of 
+the amount of past-related thoughts (b = 4.025, S.E. = 1.718, p = 0.023.
+Symptom severity was found to be unrelated to fluctuations in SGTs in healthy controls. 
+BDI (b = -54.687, S.E. = 16.886, p = 0.001), as well as Hamilton (b = -70.058, S.E. = 41.067, p 
+= 0.090) were found to be a predictor of extremity in the amount of general mind wandering.
+4. Discussion
+In this study we aimed to investigate thinking patterns related to mind wandering in clinical 
+depression relative to healthy controls using an objective online-measure, a mind wandering 
+laboratory task that probes the amount and specific content of task-unrelated thoughts in the 
+moment in which they occur. More specifically the content of thoughts was assessed on 
+following six dimensions: 1) past, 2) future, 3) self, 4) other, 5) negative valence and 6) positive 
+valence (Engert et al., 2014; Ruby et al., 2013a; Ruby et al., 2013b). In addition to typically used 
+average scores of STG frequencies, we also looked here at fluctuation and extremity of SGTs as 
+a measure of variability over time. We hypothesized that MDD patients relative to healthy 
+controls would engage in more mind wandering, showing a specific SGT pattern possibly related 
+to rumination and worry. In addition we expected that the amount and also the variability of 
+depression specific SGTs would relate to symptom severity.
+As hypothesized MDD patients engaged in a greater amount of SGTs compared to healthy 
+controls, showing more off-task mind wandering, being less in the “here and now”. The SGT 
+pattern in MDD patients relative to healthy controls was characterized by significantly more selfand past-related thoughts that were more negative and less positive in valence. In particular,
+MDD patients’ past-related thoughts were strongly coupled to negatively valenced SGTs. These 
+findings suggest that distorted thought processes in depression can be very well captured and 
+described in online depressive mind wandering. This specific depressive SGT pattern might in 
+part relate to pathological rumination about negative past events, which is commonly found to be 
+increased in depression (Nolen-Hoeksema, 1991, 2000). Supporting this suggestion, the “feelings 
+of guilt” item of the Hamilton scale including questions about rumination was particularly 
+associated with past-related thoughts in MDD patients (see Supplemental Information). This 
+SGT pattern is also in accordance with the three proposed elements of rumination (Disner et al., 
+2011): altered emotion and memory processing, increased self-referential processing, and 
+decreased top-down inhibition of these processes.
+Interestingly, the strongest predictor of depressive SGT was the positive valence of the 
+thoughts. This is in accordance with some findings showing that the absence of positive affect
+might be actually more indicative of the depressive state, as increased negative affect is shared 
+by most mood and anxiety disorders (Watson et al., 1988). Further, symptom severity also 
+related with the amount of positive thoughts within the group of the MDD patients, as well as 
+their variance. This suggests that the low and flat positive valence of thoughts plays a crucial
+functional role in depression and its severity. Findings of decreased positive affect in response to 
+rewards and abnormal functioning of reward sensitive brain areas such as the nucleus accumbens
+in depression (Heller et al., 2009), might be seen as further support. In the case of the healthy 
+controls depressive symptoms were related to increased amount of past-related thoughts as 
+previously reported (Ruby et al., 2013a; Smallwood and O'Connor, 2011; Smallwood et al.,
+2007). Past-related thoughts might therefore represent a vulnerability factor for depression, 
+possibly related to a ruminative response style, which has been shown to be associated with onset, 
+maintenance and reoccurrence of depressive episodes (Nolen-Hoeksema, 2000; NolenHoeksema et al., 2008). 
+While MDD patients only marginally engaged in more future-related thoughts, their 
+future-oriented thoughts were significantly more negative than in healthy controls. This could be 
+interpreted as a SGT pattern of worry, and indeed the somatic anxiety scale of the Hamilton scale
+was positively related to future thoughts in MDD patients, lending support for this suggestion
+(see Supplemental Information). Interestingly future-related thoughts in healthy controls have 
+mostly been associated with adaptive and beneficial effects such as increasing subsequent 
+positive mood and attenuated cortisol levels at baseline and after a stressor (Engert et al., 2014; 
+Ruby et al., 2013a). It has also been suggested that future-oriented SGT is instrumental in 
+autobiographical planning and consolidation (Baird et al., 2011; Smallwood et al., 2011). Our 
+results do show however that in the case of clinical depression future thoughts are negative and 
+potentially maladaptive being related to worry that exacerbates the depressive state.
+In this study we also looked at SGT variability over time given the multiple sampling 
+points of the thought probes. We used two indices of SGT variability, namely the fluctuation of 
+the SGT ratings, and the extremity of the SGT ratings, which both can be seen as a good 
+indicator of the repetitiveness or perseverance of thoughts, such as present in depressive 
+rumination and worry. Significant group differences were only found for the fluctuation of pastrelated thoughts, with MDD patients showing less variability in past-related thoughts compared 
+to healthy controls. In addition, symptom severity in MDD patients related to fluctuations in 
+SGTs. Particularly, the stronger the symptoms that the MDD patients portrayed, the less self-
+related, positive and negative thoughts fluctuated. Similarly symptom severity in MDD patients 
+was associated the extremity of future-related SGTs. In general these findings suggest that the 
+stronger the depressive symptoms portrayed by MDD patients, the more rigid certain SGTs are 
+over time. In particular the less variable the positive valence of such SGTs is, the more repetitive
+and perseverative certain thoughts and the corresponding affect are. Increasing inflexibility in 
+SGTs in depression might be associated with reported cognitive inflexibility in depression
+(Altamirano et al., 2010; Joormann et al., 2011; Whitmer and Gotlib, 2013), due to serotonergic 
+dysregulation within prefrontal cortex (Clarke et al., 2004).
+From a clinical point of view, identifying SGT patterns of MDD and other mental 
+disorders seems to be of relevance. Disease specific SGT patterns can function as state markers, 
+which can be utilized to monitor disease progression and more importantly therapeutic changes 
+and shifts towards more adaptive SGTs. Mapping disease specific SGT patterns, could be also 
+further helpful for diagnostic purposes. As decreased positive valence of SGT was most 
+representative of the depressive mind, one could envision how therapies fostering selfcompassion and positive affect might be particularly useful for clinical interventions (Van Dam 
+et al., 2011). In addition mindfulness-based therapies have been shown to be very effective in 
+treating depression, by increasing momentary positive emotions and reward experience (e.g. 
+Geschwind et al., 2011) and decreasing negative mind wandering in terms of ruminative thinking 
+(e.g. Ramel et al., 2004). For future studies it would be interesting to compare SGT patterns 
+between different mental disorders. Naturally, investigating SGT patterns in anxiety disorders 
+relative to depression would be very interesting, particularly as there exists a high comorbidity 
+between these two disorders. It could be assumed that the SGT pattern of anxiety disorders 
+relative to MDD shift more strongly in the temporal domain towards future, representing 
+pathological worry, while being possibly equally negative and self focused. Additionally it 
+would be interesting to explore how SGT patterns change in remission from depression.
+Investigating SGT “online” with tasks such as the CRT combined with assessment of the 
+different thought content dimensions, as used in this study could represent a more objective 
+measure than clinical interviews and self-reports. Particularly self-reports demand certain
+amount of retrospection and introspection, which are often deficient in many mental disorders.
+4.5. Limitations
+One limitation of the present study is that no other measures of rumination and worry were 
+available to relate these to the SGT pattern in depression, and strongly validate the interpretation 
+of rumination and worry. In addition the study was based on a relatively small sample size.
+5. Conclusion
+In conclusion this study aimed to investigate the specific contents of online SGTs and 
+their variability in depression. The findings show that MDD patients engaged in more SGTs than 
+healthy controls that was seemingly ruminative in nature, being more negative and less positive
+in valence as well as more self- and past related. Particularly in the temporal domain, MDD 
+patients’ thoughts about the past and the future were more negatively valenced. The decreased 
+positive valence of SGTs was the best predictor for depression. Additionally the variability in 
+SGTs related negatively to symptom severity in depression. Investigating different SGT patterns 
+of mental disorders such as depression using event-sampling online measures can be useful for 
+deriving state markers that may help diagnosis and intervention.
+References
+Altamirano, L.J., Miyake, A., Whitmer, A.J., 2010. When mental inflexibility facilitates 
+executive control beneficial side effects of ruminative tendencies on goal maintenance. 
+Psychol. Sci. 21, 1-6.
+American Psychiatric Association, 2000. Diagnostic and Statistical Manual of Mental Disorders, 
+fourth ed. (text-rev.). American Psychiatric Association, Washington DC.
+Andrews‐Hanna, J.R., Smallwood, J., Spreng, R.N., 2014. The default network and self‐
+generated thought: component processes, dynamic control, and clinical relevance. Ann. N. 
+Y. Acad. Sci. 1316, 29-52.
+Baird, B., Smallwood, J., Mrazek, M.D., Kam, J.W., Franklin, M.S., Schooler, J.W., 2012. 
+Inspired by distraction: mind wandering facilitates creative incubation. Psychological 
+science 23, 1117-1122.
+Baird, B., Smallwood, J., Schooler, J.W., 2011. Back to the future: autobiographical planning 
+and the functionality of mind-wandering. Conscious. Cogn. 20, 1604-1611.
+Borkovec, T.D., Robinson, E., Pruzinsky, T., DePree, J.A., 1983. Preliminary exploration of 
+worry: Some characteristics and processes. Behav. Res. Ther. 21, 9-16.
+Clarke, H., Dalley, J., Crofts, H., Robbins, T., Roberts, A., 2004. Cognitive inflexibility after 
+prefrontal serotonin depletion. Science 304, 878-880.
+Disner, S.G., Beevers, C.G., Haigh, E.A., Beck, A.T., 2011. Neural mechanisms of the cognitive 
+model of depression. Nature Reviews Neuroscience 12, 467-477.
+Ebner-Priemer, U.W., Kuo, J., Kleindienst, N., Welch, S.S., Reisch, T., Reinhard, I., Lieb, K., 
+Linehan, M.M., Bohus, M., 2007. State affective instability in borderline personality 
+disorder assessed by ambulatory monitoring. Psychological medicine 37, 961-970.
+Engert, V., Smallwood, J., Singer, T., 2014. Mind your thoughts: Associations between selfgenerated thoughts and stress-induced and baseline levels of cortisol and alpha-amylase. 
+Biol. Psychol. 103, 283-291.
+Geschwind, N., Peeters, F., Drukker, M., van Os, J., Wichers, M., 2011. Mindfulness training 
+increases momentary positive emotions and reward experience in adults vulnerable to 
+depression: a randomized controlled trial. J. Consult. Clin. Psychol. 79, 618.
+Hamilton, M., 1960. A rating scale for depression. Journal of neurology, neurosurgery, and 
+psychiatry 23, 56-62.
+Hautzinger, M., Bailer, M., Worall, H., Keller, F., 1995. BDI Beck-Depressions-Inventar. Bern: 
+Verlag Hans Huber.
+Heller, A.S., Johnstone, T., Shackman, A.J., Light, S.N., Peterson, M.J., Kolden, G.G., Kalin, 
+N.H., Davidson, R.J., 2009. Reduced capacity to sustain positive emotion in major 
+depression reflects diminished maintenance of fronto-striatal brain activation. 
+Proceedings of the National Academy of Sciences 106, 22445-22450.
+Hendriks, S.M., Licht, C.M., Spijker, J., Beekman, A.T., Hardeveld, F., de Graaf, R., Penninx, 
+B.W., 2014. Disorder-specific cognitive profiles in major depressive disorder and 
+generalized anxiety disorder. BMC Psychiatry 14, 1-9.
+Hong, R.Y., 2007. Worry and rumination: Differential associations with anxious and depressive 
+symptoms and coping behavior. Behav. Res. Ther. 45, 277-290.
+Jahng, S., Wood, P.K., Trull, T.J., 2008. Analysis of affective instability in ecological 
+momentary assessment: Indices using successive difference and group comparison via 
+multilevel modeling. Psychol Methods 13, 354-375.
+Joormann, J., Levens, S.M., Gotlib, I.H., 2011. Sticky thoughts depression and rumination are 
+associated with difficulties manipulating emotional material in working memory. Psychol. 
+Sci. 22, 979-983.
+Kane, M.J., Brown, L.H., McVay, J.C., Silvia, P.J., Myin-Germeys, I., Kwapil, T.R., 2007. For 
+whom the mind wanders, and when an experience-sampling study of working memory 
+and executive control in daily life. Psychol. Sci. 18, 614-621.
+Killingsworth, M.A., Gilbert, D.T., 2010. A wandering mind is an unhappy mind. Science 330, 
+932-932.
+Kirk, R.E., 1996. Practical significance: A concept whose time has come. Educ. Psychol. Meas. 
+56, 746-759.
+Nolen-Hoeksema, S., 1991. Responses to depression and their effects on the duration of 
+depressive episodes. J. Abnorm. Psychol. 100, 569-582.
+Nolen-Hoeksema, S., 2000. The role of rumination in depressive disorders and mixed 
+anxiety/depressive symptoms. J. Abnorm. Psychol. 109, 504-511.
+Nolen-Hoeksema, S., Morrow, J., 1993. Effects of rumination and distraction on naturally 
+occurring depressed mood. Cogn. Emot. 7, 561-570.
+Nolen-Hoeksema, S., Wisco, B.E., Lyubomirsky, S., 2008. Rethinking rumination. Perspect. 
+Psychol. Sci. 3, 400-424.
+Ottaviani, C., Shahabi, L., Tarvainen, M., Cook, I., Abrams, M., Shapiro, D., 2014. Cognitive, 
+behavioral, and autonomic correlates of mind wandering and perseverative cognition in 
+major depression. Front. Neurosci. 8, 1-9.
+Ramel, W., Goldin, P.R., Carmona, P.E., McQuaid, J.R., 2004. The effects of mindfulness 
+meditation on cognitive processes and affect in patients with past depression. Cognit. 
+Ther. Res. 28, 433-455.
+Ruby, F.J., Smallwood, J., Engen, H., Singer, T., 2013a. How self-generated thought shapes 
+mood—the relation between mind-wandering and mood depends on the socio-temporal 
+content of thoughts. PLoS One 8, e77554.
+Ruby, F.J., Smallwood, J., Sackur, J., Singer, T., 2013b. Is self-generated thought a means of 
+social problem solving? Front. Psychol. 4, 1-10.
+Schmidt, K.-H., Metzler, P., 1992. Wortschatztest: WST. Beltz.
+Skirrow, C., Ebner-Priemer, U., Reinhard, I., Malliaris, Y., Kuntsi, J., Asherson, P., 2014. 
+Everyday emotional experience of adults with attention deficit hyperactivity disorder: 
+evidence for reactive and endogenous emotional lability. Psychological medicine 44, 
+3571-3583.
+Smallwood, J., 2013. Distinguishing how from why the mind wanders: a process–occurrence 
+framework for self-generated mental activity. Psychol. Bull. 139, 519.
+Smallwood, J., Davies, J.B., Heim, D., Finnigan, F., Sudberry, M., O'Connor, R., Obonsawin, M., 
+2004. Subjective experience and the attentional lapse: Task engagement and 
+disengagement during sustained attention. Conscious. Cogn. 13, 657-690.
+Smallwood, J., O'Connor, R.C., 2011. Imprisoned by the past: unhappy moods lead to a 
+retrospective bias to mind wandering. Cogn. Emot. 25, 1481-1490.
+Smallwood, J., O'Connor, R.C., Sudbery, M.V., Obonsawin, M., 2007. Mind-wandering and 
+dysphoria. Cognition and Emotion 21, 816-842.
+Smallwood, J., Ruby, F.J., Singer, T., 2013. Letting go of the present: mind-wandering is 
+associated with reduced delay discounting. Conscious. Cogn. 22, 1-7.
+Smallwood, J., Schooler, J.W., Turk, D.J., Cunningham, S.J., Burns, P., Macrae, C.N., 2011. 
+Self-reflection and the temporal focus of the wandering mind. Conscious. Cogn. 20, 
+1120-1126.
+Stawarczyk, D., Majerus, S., D’Argembeau, A., 2013. Concern-induced negative affect is 
+associated with the occurrence and content of mind-wandering. Conscious. Cogn. 22, 
+442-448.
+Trull, T.J., Solhan, M.B., Tragesser, S.L., Jahng, S., Wood, P.K., Piasecki, T.M., Watson, D., 
+2008. Affective instability: measuring a core feature of borderline personality disorder 
+with ecological momentary assessment. J Abnorm Psychol 117, 647-661.
+Van Dam, N.T., Sheppard, S.C., Forsyth, J.P., Earleywine, M., 2011. Self-compassion is a better 
+predictor than mindfulness of symptom severity and quality of life in mixed anxiety and 
+depression. J. Anxiety Disord. 25, 123-130.
+Watkins, E.R., 2008. Constructive and unconstructive repetitive thought. Psychol. Bull. 134, 
+163-206.
+Watson, D., Clark, L.A., Carey, G., 1988. Positive and negative affectivity and their relation to 
+anxiety and depressive disorders. J. Abnorm. Psychol. 97, 346-353.
+Whitmer, A.J., Gotlib, I.H., 2013. An attentional scope model of rumination. Psychol. Bull. 139, 
+1036-1061.
+Xu, R., 2003. Measuring explained variation in linear mixed effects models. Stat. Med. 22, 3527-
+3541.
+Fig. 1. Amount of SGT and SGT contents for healthy controls and MDD patients. Depressed 
+patients showed increased negative and decreased positive as well as increased self- and pastrelated thoughts, relative to healthy controls (error bars represent standard errors).
+Fig. 2. (A) In contrast to healthy controls, MDD patients show a significant positive relation 
+between the negative valence and past-relatedeness of SGTs. (B) In contrast to healthy controls,
+MDD patients show a significant positive relation between the negative valence and futurerelatedeness of SGTs.
+Table 1 Demographic and clinical characteristics of the participants
+Healthy 
+Controls
+MDD Patients
+Significant effects 
+( p < 0.05)
+Sample size
+Gender
+Age
+Education (years)
+Verbal IQ (WST)
+BDI
+HAMD-21
+26
+10 males
+41.9 (13.6)
+16.9 (2.9)
+105.4 (7.5)
+2.5 (3.8)
+0.77 (1.6)
+25
+8 males
+41.1 (12.6)
+15.2 (3.2)
+100.7 (11.4)
+32.0 (9.6)
+20.4 (3.6)
+*
+*
+Table 2 Medication of MDD patients
+Medication Number of Participants
+SSRI 6
+NaSSA 2
+SNRI 3
+NDRI 2
+TCA 1
+AAP 1
+SSRI + Lithium 1
+TCA + Lithium 1
+NaSSA + Lithium 1
+SSRI + AAP 1
+SNRI + AAP 1
+SSRI + TCA 1
+SSRI + Agomelatine 1
+AAP + Lithium 1
+SSRI + NaSSA 1
+Table 3 Differences between MDD patients and HCs in rating levels, fluctuations in ratings and 
+extremity in ratings as estimated with multi-level modelling
+Model 
+paramete
+rs
+rating 
+levels
+fluctuation
+s in ratings
+extremity 
+of ratings
+Predictor
+s b
+S.
+E.
+pval
+ue ω
+2
+b S.E.
+pval
+ue ω
+2
+b S.E.
+pval
+ue ω
+2
+off 
+task Intercept
+-
+6,634
+4,
+36
+3
+0,1
+40 359,591
+203
+,23
+6
+0,0
+78 846,379
+147,
+244
+<0,
+001
+Group
+-
+24,73
+6
+5,
+43
+2
+0,0
+01
+0,
+10
+8 277,831
+180
+,20
+7
+0,1
+24
+0,0
+09 -75,813
+184,
+016
+0,6
+82
+0,0
+02
+Sample 2,571
+0,
+73
+4
+0,0
+01
+0,
+05
+0 43,210
+45,
+631
+0,3
+45
+0,0
+04 -60,207
+17,6
+65
+0,0
+01
+0,0
+33
+othe
+r Intercept
+25,85
+9
+4,
+22
+1
+<0,
+001 933,098
+206
+,79
+2
+<0,
+001 680,979
+104,
+074
+<0,
+001
+Group
+-
+2,930
+5,
+40
+3
+0,5
+93
+0,
+00
+4 43,052
+268
+,79
+7
+0,8
+74
+<0,
+00
+1 120,726
+113,
+300
+0,2
+87
+0,0
+06
+Sample 1,268
+0,
+62
+2
+0,0
+42
+0,
+01
+2 2,681
+49,
+229
+0,9
+57
+0,0
+04 11,640
+21,5
+52
+0,5
+90
+0,0
+03
+self Intercept
+45,72
+9
+3,
+63
+4
+<0,
+001 857,550
+246
+,29
+4
+0,0
+01 990,713
+125,
+197
+<0,
+001
+Group
+-
+21,68
+6
+4,
+44
+6
+<0,
+001
+0,
+07
+0 300,419
+218
+,00
+4
+0,1
+69
+0,0
+08 108,317
+143,
+679
+0,4
+51
+0,0
+04
+Sample 2,879
+0,
+86
+9
+0,0
+07
+0,
+05
+2 -21,361
+55,
+763
+0,7
+02
+0,0
+01 -10,471
+19,5
+68
+0,5
+93
+<0,
+00
+1
+neg
+ativ
+e Intercept
+45,03
+6
+5,
+37
+4
+<0,
+001 268,231
+117
+,74
+4
+0,0
+24 1032,565
+133,
+213
+<0,
+001
+Group - 7, 0,0 0, 122,903 104 0,2 0,0 -115,103 170, 0,5 0,0
+26,22 0
+024
+01 191
+,22 0
+39 06 661 03 11
+Sample 3,109
+0,
+660
+<0,
+001
+0,
+053 6,681
+26,
+658
+0,8
+02
+<0,
+001
+-7,895
+17,2
+27
+0,6
+47
+<0,
+001
+posi
+tive Intercept
+40,58 3
+4,
+665
+<0,
+001 524,571
+108
+,16 8
+<0,
+001 845,119
+132,
+122
+<0,
+001
+Group
+28,13 5
+5,
+724
+<0,
+001
+0,
+226
+-2,515
+105
+,09 3
+0,9
+81
+<0,
+001
+-62,209
+166,
+982
+0,7
+11
+0,0
+03
+Sample
+-
+1,449
+0,
+492
+0,0
+06
+0,
+013
+-45,744
+21,
+686
+0,0
+36
+0,0
+18
+-5,986
+16,2
+67
+0,7
+13
+<0,
+001
+past Intercept
+28,77
+87
+3,
+417
+<0,
+001 352,832
+219
+,30 9
+0,1
+08 852,037
+215,
+769
+<0,
+001
+Group
+-
+16,26 8
+4,
+344
+0,0
+01
+0,
+129 461,218
+244
+,84 0
+0,0
+62
+0,0
+20
+-304,787
+215,
+674
+0,1
+66
+0,0
+16
+Sample 1,661
+0,
+672
+0,0
+14
+0,
+050 54,674
+43,
+935
+0,2
+14
+0,0
+18 45,124
+20,3
+14
+0,0
+29
+0,0
+17
+futu
+re Intercept
+24,16 0
+5,
+001
+<0,
+001 954,850
+235
+,00 7
+<0,
+001 787,485
+125,
+673
+<0,
+001
+Group
+-
+10,96 4
+6,
+068
+0,0
+77
+0,
+021
+-40,411
+208
+,59 7
+0,8
+47
+<0,
+001 105,544
+145,
+361
+0,4
+70
+0,0
+14
+Sample 3,680
+0,
+725
+<0,
+001
+0.
+087
+-48,768
+52,
+983
+0,3
+58
+0,0
+03 47,501
+29,6
+54
+0,1
+12
+0,0
+20
+neg
+ativ e Intercept
+49,20 4
+3,
+943
+<0,
+001 688,076
+194
+,55 8
+0,0
+01 662,681
+124,
+650
+<0,
+001
+mo
+od Group
+-
+19,36 1
+5,
+877
+0,0
+02
+0,
+134
+-199,076
+181
+,97 7
+0,2
+79
+0,0
+09 22,053
+162,
+188
+0,8
+92
+0,0
+01
+Sample 1,820
+0,
+594
+0,0
+03
+0,
+030
+-55,060
+32,
+040
+0,0
+87
+0,0
+09 44,862
+13,6
+89
+0,0
+01
+0,0
+03
+posi
+tive Intercept
+37,99 3
+3,
+667
+<0,
+001 257,217
+73,
+350
+0,0
+01 607,443
+118,
+016 7
+<0,
+001
+mo
+od Group
+25,13 1
+5,
+04
+<0,
+001
+0,
+24
+-23,414
+65,
+278
+0,7
+20
+<0,
+00 32,923
+152,
+701
+0,8
+30
+0,0
+01
+Note: Sample represents the covariate of the number of sampling points of the thought probes
+8 0 1
+Sample
+-
+1,357
+0,
+49
+1
+0,0
+06
+0,
+01
+0 2,991
+16,
+133
+0,8
+53
+0,0
+32 20,523
+12,8
+77
+0,1
+12
+0,0
+02
+Table 4 Significant differences in interrelations between SGT contents in MDD patients and 
+healthy controls as estimated with multi-level modelling
+Model parameters
+rating levels
+Predictors b S.E. p-value ω
+2
+negative Intercept 38,418 5,543 <0,001
+Group -20,527 6,406 0,002 0,074
+Sample 2,803 0,760 0,001 0,017
+past*Group -0,217 0,092 0,019 0,032
+negative Intercept 41,157 5,746 <0,001
+Group -22,254 6,901 0,002 0,106
+Sample 3,025 0,794 <0,001 0,043
+future*Group -0,173 0,083 0,038 0,014
+positive Intercept 46,546 4,896 <0,001
+Group 20,628 6,156 0,001 0,107
+Sample -1,419 0,516 0,009 <0,001
+past*Group 0,245 0,085 0,004 0,041
+past Intercept 13,961 5,927 0,022
+Group -4,647 6,337 0,466 <0,001
+Sample 1,299 0,543 0,017 0,032
+self*Group -0,179 0,085 0,036 0,019
+Note: Sample represents the covariate of the number of sampling points of the thought probes
+Highlights
+ Probing self-generated thought (SGT) patterns and their variability in depression.
+ Online assessment of thoughts using an experience sampling method.
+ Depressed patients showed a specific SGT pattern related to symptom severity.
+ Depressive SGTs were more negative, less positive, more self-and past-related.
+ SGT variability decreased with increasing symptom severity in depression.

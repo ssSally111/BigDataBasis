@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="scala-sdk-2.11.12" type="Scala">
+    <properties>
+      <language-level>Scala_2_11</language-level>
+      <compiler-classpath>
+        <root url="file:///usr/share/scala-2.11/lib/scala-compiler.jar" />
+        <root url="file:///usr/share/scala-2.11/lib/scala-reflect.jar" />
+        <root url="file:///usr/share/scala-2.11/lib/scala-library.jar" />
+      </compiler-classpath>
+    </properties>
+    <CLASSES>
+      <root url="jar:///usr/share/scala-2.11/lib/scala-reflect.jar!/" />
+      <root url="jar:///usr/share/scala-2.11/lib/scala-xml.jar!/" />
+      <root url="jar:///usr/share/scala-2.11/lib/scala-parser-combinators.jar!/" />
+      <root url="jar:///usr/share/scala-2.11/lib/scala-library.jar!/" />
+      <root url="jar:///usr/share/scala-2.11/lib/scala-actors.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://www.scala-lang.org/api/2.11.12/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
