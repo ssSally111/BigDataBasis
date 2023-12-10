@@ -19,11 +19,11 @@ case class SparkUtils() {
   }
 
   def readHdfsCsv(spark: SparkSession, path: String): DataFrame = {
-    spark.read.option("header", "true").csv(s"hdfs://172.29.44.241:9000$path")
+    spark.read.option("header", "true").csv(s"hdfs://123:9000$path")
   }
 
   def saveHDFS(dataFrame: DataFrame, path: String): Unit = {
-    dataFrame.coalesce(1).write.option("header", "true").csv(s"hdfs://172.29.44.241:9000$path")
+    dataFrame.coalesce(1).write.option("header", "true").csv(s"hdfs://123:9000$path")
   }
 }
 
